@@ -2,8 +2,7 @@
 #include <string>
 #include <fstream>
 
-class Caesars_cipher
-{
+class Caesars_cipher {
 public:
     void Encode();
     void Decode();
