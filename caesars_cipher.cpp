@@ -154,8 +154,7 @@ int main() {
     do {
         std::cout << " number: ";
         std::cin >> num;
-        switch(num)
-        {
+        switch(num) {
             case 1:
                 obj.Encode();
                 break;
